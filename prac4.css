@@ -1,0 +1,37 @@
+body {
+	background-color: darkgray;
+}
+
+#header {
+	background-color: gray;
+	text-align: center;
+	padding: 3px;
+	color: black;
+}
+#content {
+	padding: 10px;
+}
+#nav {
+	width: 190px;
+	height: 1500px;
+	float: left;
+}
+#main {
+	width: 1000px;
+	float: 200px;
+}
+img {
+	float: left;
+	margin-right: 10px;
+}
+#footer {
+	background-color: gray;
+	color: white;
+	clear: both;
+	padding: 10px;
+	text-align: right;
+}
+.my-hr, .my-hr1, .my-hr2, .my-hr3 {
+	border-color: black;
+	margin: 0px 0px 0px 0px;
+}
